@@ -1,0 +1,40 @@
+body{
+  background-color: aquamarine
+}
+
+.calculator {
+    width: 200px;
+    margin: 5rem auto;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: aliceblue;
+  }
+  
+  .calculator-display {
+    width: 98%;
+    margin-bottom: 10px;
+    padding: 5px;
+    text-align: right;
+    font-size: 18px;
+    padding: 0.5rem 0;
+    border-radius: 5px;
+    background-color: white;
+    border: 1px solid #ccc;
+  }
+  
+  .calculator-button {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    font-size: 16px;
+  }
+
+  footer{
+    text-align: center;
+    justify-content: baseline;
+  }
+  
+  footer > a {
+    color: chocolate;
+  }
