@@ -106,9 +106,10 @@ body{
   }
 
   .calculator-display{
+    margin-top: 1rem;
     height: 5rem;
     width: 95%;
-    font-size: xx-large;
+    font-size: 3rem;
   }
 
 
