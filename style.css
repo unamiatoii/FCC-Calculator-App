@@ -55,8 +55,8 @@ body{
     background-color:#A7001E;
     border: 1px solid #ccc;
     border-radius: 5px;
-    color: #7aa95c;
-    font-size: x-large;
+    color: #e2e9c0;
+    font-size: xx-large;
   }
 
   footer{
@@ -100,14 +100,14 @@ body{
     flex-wrap: wrap;
   }
   .calculator-button{
-    width: 20%;
-    height: 16.66%;
+    width: 18%;
+    height: 15%;
   }
 
   .calculator-display{
-    height: 4rem;
-    width: 97%;
-
+    height: 5rem;
+    width: 95%;
+    font-size: xx-large;
   }
 
 
