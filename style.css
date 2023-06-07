@@ -90,7 +90,7 @@ body{
     width: 90%;
     display: inline-flex;
     flex-direction: column;
-
+    overflow: scroll;
   }
   .buttons{
     width: 100%;
@@ -106,10 +106,12 @@ body{
   }
 
   .calculator-display{
-    margin-top: 1rem;
+    margin-top:3rem;
     height: 5rem;
     width: 95%;
     font-size: 3rem;
+    display: flex;
+    align-items: center;
   }
 
 
